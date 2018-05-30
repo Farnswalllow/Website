@@ -1,0 +1,17 @@
+a:active, a:visited, a:link {
+    color:white;
+    margin:15px;
+    border:10px groove;
+    text-decoration:none;
+    background-color:#6d97db;
+    padding:10px;
+    
+}
+a:hover {
+    color:white;
+    margin:15px;
+    border:10px groove;
+    text-decoration:none;
+    background-color:#6d67db;
+    padding:11px;  
+}
